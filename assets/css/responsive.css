@@ -1,0 +1,25 @@
+@media screen and (max-width: 1399px) and (min-width: 1200px) {
+  .container {
+    width: 114rem;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .container {
+    width: 96rem;
+  }
+}
+@media screen and (max-width: 991px) {
+  .container {
+    width: 72rem;
+  }
+  .search input {
+    font-size: 1.5rem;
+    width: 9rem;
+  }
+  .nav ul {
+    gap: 3rem;
+  }
+  .nav ul li {
+    font-size: 1.5rem;
+  }
+}
